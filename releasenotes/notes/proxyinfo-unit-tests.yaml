@@ -1,0 +1,6 @@
+apiVersion: release-notes/v2
+kind: test
+area: istioctl
+releaseNotes:
+  - |
+   **Added** unit tests for pkg/proxy/proxyinfo.go to improve reliability.
